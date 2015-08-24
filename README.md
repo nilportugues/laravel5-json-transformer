@@ -1,5 +1,7 @@
 # Laravel 5 Json Transformer Package
 
+[![Join the chat at https://gitter.im/nilportugues/laravel5-json-transformer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nilportugues/laravel5-json-transformer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nilportugues/laravel5-json-transformer/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nilportugues/laravel5-json-transformer/?branch=master) [![SensioLabsInsight](https://insight.sensiolabs.com/projects/a3933b7b-13ec-44cf-aef9-0dce25e44ef5/mini.png)](https://insight.sensiolabs.com/projects/a3933b7b-13ec-44cf-aef9-0dce25e44ef5) 
 [![Latest Stable Version](https://poser.pugx.org/nilportugues/laravel5-json/v/stable)](https://packagist.org/packages/nilportugues/laravel5-json) 
